@@ -67,6 +67,7 @@
 
 ### Isso executará o Binder e o Servidor. Eles estarão disponíveis nos seguintes endereços:
    o	Binder: http://localhost:5000
+   
    o	Servidor: http://localhost:8005
 
 ### Abrirá também os novos terminais para executar os clientes:
