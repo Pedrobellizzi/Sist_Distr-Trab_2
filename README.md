@@ -34,16 +34,27 @@ Cliente
 
 # Estrutura do Projeto
 chat_system/
+
 ├── binder/
+
 │   ├── binder.py               # Binder RPC server
+
 ├── cliente/
+
 │   ├── cliente.py              # Chat client
+
 ├── README.md                   # Documentação do projeto
+
 ├── server/
+
 │   ├── server.py               # Chat server
+
 ├── utils/
+
 │   ├── requisitos.gitignore    # Funções auxiliares e Dependências do Python
+
 ├── chat_start.bat              # Script para inicializar o sistema
+
 └── usuarios.json               # Arquivo de usuários
 
 # Requisitos
