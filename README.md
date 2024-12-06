@@ -148,8 +148,11 @@
 ## Exemplo de Uso
 ### 1.	Inicie o sistema e execute o cliente:
 ./chat_start.bat  
+
 python binder/binder.py
+
 python server/server.py
+
 python cliente/cliente.py
 
 ### 2. Abra novos terminais para executar os clientes:
