@@ -1,17 +1,17 @@
-# Chat System Distribuido
+### Chat System Distribuido
    Um sistema de chat distribuído desenvolvido em Python utilizando RPC (Remote Procedure Call). Este projeto simula um sistema multiusuário com salas de chat, mensagens públicas e privadas, integrando um binder central para gerenciamento dos serviços.
 
-# Índice
-  1.	Visão Geral
-  2.	Características do Sistema
-  3.	Estrutura do Projeto
-  4.	Requisitos
-  5.	Execução
-  6.	Detalhamento das Funcionalidades
-  7.	Exemplo de Uso
+## Índice
+  # 1.	Visão Geral
+  # 2.	Características do Sistema
+  # 3.	Estrutura do Projeto
+  # 4.	Requisitos
+  # 5.	Execução
+  # 6.	Detalhamento das Funcionalidades
+  # 7.	Exemplo de Uso
  
-# Visão Geral
-O Chat System Distribuido é composto por três partes principais:
+## Visão Geral
+# O Chat System Distribuido é composto por três partes principais:
    •	Binder: Responsável por registrar e descobrir os procedimentos remotos disponíveis no servidor.
    •	Servidor de Chat (Server): Gerencia as salas, mensagens e usuários conectados.
    •	Cliente: Permite que os usuários interajam com o sistema criando salas, enviando mensagens e listando informações.
@@ -57,15 +57,15 @@ chat_system/
 
 └── usuarios.json               # Arquivo de usuários
 
-# Requisitos
-   •	Python 3.8+
-   •	Instalar as dependências listadas em requisitos.gitignore:
+## Requisitos
+#   •	Python 3.8+
+#   •	Instalar as dependências listadas em requisitos.gitignore:
 
-# Execução
-Inicie o sistema:  
+## Execução
+# Inicie o sistema:  
    ./chat_start.bat
 
-Isso executará o Binder e o Servidor. Eles estarão disponíveis nos seguintes endereços:
+# Isso executará o Binder e o Servidor. Eles estarão disponíveis nos seguintes endereços:
    o	Binder: http://localhost:5000
    o	Servidor: http://localhost:8005
 
