@@ -147,19 +147,19 @@
   
 ## Exemplo de Uso
 ### 1.	Inicie o sistema e execute o cliente:
-      ./chat_start.bat
+./chat_start.bat
       
-      python binder/binder.py
+python binder/binder.py
       
-      python server/server.py
+python server/server.py
   	   
-      python cliente/cliente.py
+python cliente/cliente.py
 
 ### 2. Abra novos terminais para executar os clientes:
-    ./chat_start.bat
+./chat_start.bat
 
 ### 3.	Registre um nome de usuário (nomeUsuario):
-    Digite seu nome de usuario: Pedro
+Digite seu nome de usuario: Pedro
 
 ### 4.	Escolha uma das opções do primeiro menu, criando ou entrando em uma sala:
   1) Criar sala
@@ -174,5 +174,5 @@
   4) Encerrar
      
 ### 7.	Receba mensagens automaticamente:
-         [12:34:56] Pedro: Bom dia a todos!
+[12:34:56] Pedro: Bom dia a todos!
 
